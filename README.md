@@ -129,7 +129,6 @@ Me chamo Yasmim Pereira da Costa, tenho 18 anos e sou natural de São Paulo - SP
     src="https://github-readme-stats.vercel.app/api?username=Yassm1m&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 <!-- Tecnologias mais utilizadas -->
-<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
