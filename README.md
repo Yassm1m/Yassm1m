@@ -1,6 +1,6 @@
  ##👩🏻‍💻 Yasmim Pereira
 
-**`Desenvolvedora`**
+**`esenvolvedora Full Stack`**
 
 Me chamo Yasmim Pereira da Costa, tenho 18 anos e sou natural de São Paulo - SP. Concluí o ensino médio técnico em Desenvolvimento de Sistemas pela ETEC Basilides de Godoy e atualmente estou cursando Engenharia de Software na Universidade São Judas Tadeu. Sou uma desenvolvedora full stack apaixonada por tecnologia e por transformar ideias em soluções reais com criatividade e eficiência. 💡 Tenho facilidade em aprender novas ferramentas, me adapto rapidamente a diferentes contextos e gosto de me envolver em projetos desafiadores que gerem impacto🚀.
 
