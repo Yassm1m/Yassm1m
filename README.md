@@ -118,22 +118,23 @@ Me chamo Yasmim Pereira da Costa, tenho 18 anos e sou natural de São Paulo - SP
 <br/>
 
 ---
- ### 📊 Estatísticas
-<!-- Estatísticas do GitHub e Tecnologias lado a lado -->
-<div style="display: flex; gap: 10px; align-items: center;">
-  
-  <!-- Estatísticas do GitHub -->
-  <img 
+### 📊 Estatísticas
+<p>
+ <!-- Estatísticas do GitHub -->
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Yassm1m&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<!-- Tecnologias mais utilizadas -->
+<br/>
+<img 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=Yassm1m&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-  <!-- Tecnologias mais utilizadas -->
-  <img 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassm1m&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</div>
+</p>
+ 
