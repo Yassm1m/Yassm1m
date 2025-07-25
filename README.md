@@ -97,18 +97,3 @@ Bem-vindo(a) ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia e p
 </p>
 
 ---
-
-## 🌍 Vamos nos Conectar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasmim-pereira-cossta" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Yassm1m?tab=repositories&sort=stargazers" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-💬 *"Tecnologia é a ponte entre ideias e soluções. Vamos construir o futuro juntos!"*
