@@ -1,9 +1,6 @@
 # 👩🏻‍💻 Yasmim Pereira
 
 **Desenvolvedora Full Stack | Estudante de Engenharia de Software | São Paulo, Brasil**
-
-Bem-vindo(a) ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia e por transformar ideias em soluções eficientes. Atualmente curso Engenharia de Software na Universidade São Judas Tadeu e sou formada em Desenvolvimento de Sistemas pela ETEC Basilides de Godoy.
-
 ---
 
 ## 📚 Sobre Mim
