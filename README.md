@@ -27,16 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
-## 📈 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yassm1m&show_icons=true&theme=tokyonight&include_all_commits2025=true&locale=pt-br" 
-    height="200"
-  />
-</p>
-
----
 
 ## 🌍 Vamos nos Conectar
 
