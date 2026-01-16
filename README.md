@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Yasmim Pereira
 
-**Desenvolvedora Full Stack Developer | Estudante de Engenharia de Software | São Paulo, Brasil**
+** | Estudante de Engenharia de Software | São Paulo, Brasil**
 ---
 
 ## 📚 Sobre Mim
