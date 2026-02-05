@@ -12,11 +12,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">olá 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Sobre mim</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagem e ferramentas</h3>
 
 ###
 
@@ -73,7 +73,7 @@
 </div>
 
 
-## 🎮 Pac-Man das minhas contribuições
+## 🎮 Minhas contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman"/>
