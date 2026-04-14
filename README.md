@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🎓 Graduanda em Engenharia de Software | Universidade São Judas Tadeu<br>🛠️ Técnica em Desenvolvimento de Sistemas | ETEC Basilides de Godoy<br><br>💻 Desenvolvedora em início de carreira, em busca da primeira oportunidade na área de tecnologia.<br>🚀 Forte interesse em desenvolvimento de software, lógica de programação e construção de projetos práticos para evolução contínua.<br>🧠 Perfil proativo, organizado, c</p>
+<p align="left">🎓 Graduando em Engenharia de Software | Universidade São Judas Tadeu<br>🛠️ Técnica em Desenvolvimento de Sistemas | ETEC Basilides de Godoy<br><br>💻 Desenvolvedora em início de carreira, em busca da primeira oportunidade na área de tecnologia.<br>🚀 Forte interesse em desenvolvimento de software, lógica de programação e construção de projetos práticos para evolução contínua.<br>🧠 Perfil proativo, organizado, c</p>
 
 ###
 
