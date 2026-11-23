@@ -1,6 +1,6 @@
 # Olá, eu sou a Yasmim 👋
 
-Estudante de **Engenharia de Software** na Universidade São Judas Tadeu e **estagiária desenvolvedora** na Wae Tecnologia, onde trabalho com GeneXus e SQL. Gosto de **Python**, **dados** e **APIs REST**, e de aprender construindo projetos de verdade.
+Estudante de **Engenharia de Software** na Universidade São Judas Tadeu e **estagiária desenvolvedora** na Wae Tecnologia, onde trabalho com GeneXus e SQL. Gosto de **Java**,**Python**, **dados** e **APIs REST**, e de aprender construindo projetos de verdade.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmim-pereira-cossta)
 [![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmimpereira.dev@gmail.com)
