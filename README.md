@@ -1,80 +1,40 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdnOG80OXF3bWZ2bjRrZ3ZxYnhzcG8zeDE3MXo2dTV3NnZpM2l6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KPpBIdG8kqIg/giphy.gif"  />
-</div>
+# Olá, eu sou a Yasmim 👋
 
-###
+Estudante de **Engenharia de Software** na Universidade São Judas Tadeu e **estagiária desenvolvedora** na Wae Tecnologia, onde trabalho com GeneXus e SQL. Gosto de **Python**, **dados** e **APIs REST**, e de aprender construindo projetos de verdade.
 
-<div align="center">
-  <a href="in/yasmim-pereira-cossta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmim-pereira-cossta)
+[![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmimpereira.dev@gmail.com)
 
-###
+---
 
-<h1 align="center">olá 👋</h1>
+## 🛠️ Tecnologias
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+## 🚀 Projetos em destaque
 
-###
+- **[F1 Analytics](https://github.com/Yassm1m/f1-analytics)**: ETL em Python que gera um data warehouse em esquema estrela (SQLite), com 13 testes automatizados de qualidade de dados (pytest), 7 consultas SQL com window functions e CTEs, dashboard web interativo (Flask, JavaScript e Chart.js) e chatbot com integração à Claude API.
+- **Hotel API**: API REST em Java 21 e Spring Boot 3 com Spring Data JPA e MySQL, arquitetura em camadas, documentação com Swagger e validação de sobreposição de datas para evitar overbooking.
+- **[DevReads](https://github.com/CLOUDPRGM/DevReadsASPNET)**: e-commerce de e-books em ASP.NET Core MVC com MySQL (stored procedures e triggers), feito em equipe de 6 pessoas. Premiado como melhor projeto acadêmico de 2024 (TCC).
 
-<p align="left">🎓 Graduando em Engenharia de Software | Universidade São Judas Tadeu<br>🛠️ Técnica em Desenvolvimento de Sistemas | ETEC Basilides de Godoy<br><br>💻 Desenvolvedora em início de carreira, em busca da primeira oportunidade na área de tecnologia.<br>🚀 Forte interesse em desenvolvimento de software, lógica de programação e construção de projetos práticos para evolução contínua.<br>🧠 Perfil proativo, organizado, c</p>
+## 📚 Estudando agora
 
-###
+- AWS: Lambda, API Gateway, SQS, SNS e S3
+- GitHub Actions e CI/CD
+- Clean Architecture, arquitetura hexagonal e SOLID
 
-<h3 align="left">🛠 Linguagem e ferramentas</h3>
+## 📫 Contato
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-
-## 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman"/>
-</p>
+Vamos conversar? Me chame no [LinkedIn](https://linkedin.com/in/yasmim-pereira-cossta) ou por e-mail: yasmimpereira.dev@gmail.com
